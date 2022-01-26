@@ -1,0 +1,53 @@
+{
+  "burgers": [
+    {
+      "id": 0,
+      "name": "Ring of Fire",
+      "restaurant": "Lucky 13",
+      "web": "https://www.lucky13slc.com/",
+      "description": "A gressy, spicy, calmaized, fulling slice of fire that isnt for the faint of heart",
+      "indgredients": [
+        "house-smoked bacon, roasted jalapenos, roasted habaneros, grilled onions and cheddar cheese"
+      ],
+      "price": "$13",
+      "included": "Served with French Fries. Substitute Side Salad, Beer-Battered Onion Rings, Rosemary-Garlic Fries, Cajun Fries or Fried Pickles for $2",
+      "subsitutues": "Substitute a Garden Veggie Burger or Spicy Chipotle Black Bean Burger for $1.5",
+      "addresses": [
+        {
+          "addressid": 0,
+          "east": "135 W",
+          "south": "1300 S",
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84115"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Dealer",
+      "restaurant": "Cheddar Burger",
+      "web": "https://cheddaburger.co/",
+      "description": "A strange combo of hevanly flavors, spicy but not too spicy",
+      "indgredients": [
+        "Cream Chesse",
+        "BBQ pulled pork",
+        "fried jalapenos",
+        "poblano cilantor ranch"
+      ],
+      "price": "$6.99",
+      "included": "just the burger",
+      "subsitutues": "All burgers can be made with a veggie patty + $1",
+      "addresses": [
+        {
+          "addressid": 1,
+          "east": "26 E",
+          "south": "600 S",
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84111"
+        }
+      ]
+    }
+  ]
+}
